@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { decorators } from '@orange-marmalade/paginate-this;
+import { decorators } from '@orange-marmalade/paginate-this';
 
 Pagnation = ({}) => (
 	<ul className="">
